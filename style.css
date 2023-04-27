@@ -1,0 +1,12 @@
+body {
+  font-family: Avenir, 'Avenir Next LT Pro', Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
+  background-color: #fff;
+}
+
+/* Responsive images */
+
+img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+}
