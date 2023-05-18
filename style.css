@@ -67,16 +67,16 @@ img {
   height: auto;
 }
 
-/* Figure / Caption */
-
-figure {
-  margin: 0;
-}
-
 /* Hairline border for images */
 
 .border {
   border: 1px solid #ccc;
+}
+
+/* Figure / Caption */
+
+figure {
+  margin: 0;
 }
 
 figcaption {
