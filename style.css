@@ -73,6 +73,12 @@ figure {
   margin: 0;
 }
 
+/* Hairline border for images */
+
+figure img {
+  border: 1px solid #ccc;
+}
+
 figcaption {
   margin-top: 0.5em;
 }
